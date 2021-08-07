@@ -2,19 +2,19 @@
 Program to find the location from the picture.
 # for education
 
-#############################################
-#                                           #
-#  #     #  #######  ######  #      #####   #
-#  #  #  #  #     #  #   ##  #      #    #  #
-#  #  #  #  #     #  # ##    #      #    #  #
-#  #######  #######  #   ##  #####  #####   #
-#                                           #
-#           ######   #####   #####          #
-#           #     #    #    #               #
-#           ######     #    #               #
-#           #        #####   #####          #
-#                                           #
-#############################################
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                                           X
+X  X     X  XXXXXXX  XXXXXX  X      XXXXX   X
+X  X  X  X  X     X  X   XX  X      X    X  X
+X  X  X  X  X     X  X XX    X      X    X  X
+X  XXXXXXX  XXXXXXX  X   XX  XXXXX  XXXXX   X
+X                                           X
+X           XXXXXX   XXXXX   XXXXX          X
+X           X     X    X    X               X
+X           XXXXXX     X    X               X
+X           X        XXXXX   XXXXX          X
+X                                           X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 # Require*
 1. python3
@@ -41,6 +41,7 @@ Program to find the location from the picture.
 3. location on Geocode
 4. location on Google Maps
 
+# Tips
 - There can be errors if the image has no location.
 - It works well with photos taken with a phone.
 
