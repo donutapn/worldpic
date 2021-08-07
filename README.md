@@ -1,17 +1,3 @@
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-X                                           X
-X  X     X  XXXXXXX  XXXXXX  X      XXXXX   X
-X  X  X  X  X     X  X   XX  X      X    X  X
-X  X  X  X  X     X  X XX    X      X    X  X
-X  XXXXXXX  XXXXXXX  X   XX  XXXXX  XXXXX   X
-X                                           X
-X           XXXXXX   XXXXX   XXXXX          X
-X           X     X    X    X               X
-X           XXXXXX     X    X               X
-X           X        XXXXX   XXXXX          X
-X                                           X
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 # worldpic
 - Program to find the location from the picture.
 - for education
@@ -46,4 +32,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 - It works well with photos taken with a phone.
 
 # Creator
-donutapn : Thailand : RPCA Cyber Club, Stringsme, R0_bocop, FourthHUNTER
+donutapn
+- Thailand
+- RPCA Cyber Club, Stringsme, R0_bocop, FourthHUNTER
