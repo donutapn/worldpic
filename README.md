@@ -1,6 +1,6 @@
 # worldpic
-Program to find the location from the picture.
-# for education
+- Program to find the location from the picture.
+- for education
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 X                                           X
