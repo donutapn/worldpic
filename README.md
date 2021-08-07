@@ -1,7 +1,3 @@
-# worldpic
-- Program to find the location from the picture.
-- for education
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 X                                           X
 X  X     X  XXXXXXX  XXXXXX  X      XXXXX   X
@@ -15,6 +11,10 @@ X           XXXXXX     X    X               X
 X           X        XXXXX   XXXXX          X
 X                                           X
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+# worldpic
+- Program to find the location from the picture.
+- for education
 
 # Require*
 1. python3
