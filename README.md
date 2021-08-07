@@ -41,8 +41,8 @@ Program to find the location from the picture.
 3. location on Geocode
 4. location on Google Maps
 
-# There can be errors if the image has no location.
-# It works well with photos taken with a phone.
+- There can be errors if the image has no location.
+- It works well with photos taken with a phone.
 
 # Creator
 donutapn : Thailand : RPCA Cyber Club, Stringsme, R0_bocop, FourthHUNTER
