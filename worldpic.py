@@ -20,7 +20,7 @@ def GMAP(dms_lat, dms_long):
     source = requests.get(url).text
     s1 = source.find('"E') + 5
     s2 = source[s1:].find("'") + s1
-    print('Google Map')
+    print('Google Maps')
     return print(source[s1:s2])
                   
 if __name__ == '__main__':
