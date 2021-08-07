@@ -16,6 +16,14 @@ Program to find the location from the picture.
 #                                           #
 #############################################
 
+# Require*
+1. python3
+2. pip install pillow
+3. pip install requests
+4. pip install re
+5. pip install os
+6. pip install sys
+
 # Usage
 >> python3 worldpic.py [image]
 
