@@ -7,13 +7,13 @@
 
 # Module
 >> pip install pillow
->> 
+
 >> pip install requests
->> 
+
 >> pip install re
->> 
+
 >> pip install os
->> 
+
 >> pip install sys
 
 # Usage
