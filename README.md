@@ -5,7 +5,7 @@
 # Require*
 - python3
 
-# Module
+# Module*
 >> pip install pillow
 
 >> pip install requests
